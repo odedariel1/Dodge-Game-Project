@@ -1,5 +1,8 @@
-# Detector-Terror-Server #
-## Services
+# Dodge Game Project 
+## How do I get set up? ###
+* Build and run 
+* Good luck!
+
 ### 🔍Overview🔎
 <div align="center">
     <img src="https://drive.google.com/uc?export=§view&id=1kWSH55jm-6zA4z8vS1tDHB79IYSDV7Oj" width="350px" /> 
@@ -15,7 +18,3 @@
     <img src="https://drive.google.com/uc?export=§view&id=1yDl6tvD9kL4jCTFcfqi4EzA-UMT_mZd_" width="350px" /> 
     <p>This is the winning page.</p> 
 </div>  
-### How do I get set up? ###
-
-* Build and run 
-* Good luck!
